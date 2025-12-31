@@ -1,0 +1,2 @@
+# Article VI, Section II, Paragraph VII. Venue in third-party practice.
+The General Assembly may provide by law that venue is proper in a county other than the county of residence of a person or entity impleaded into a pending civil case by a defending party who contends that such person or entity is or may be liable to said defending party for all or part of the claim against said defending party.

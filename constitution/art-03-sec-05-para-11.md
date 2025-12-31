@@ -1,0 +1,2 @@
+# Article III, Section V, Paragraph XI. Signature of Governor.
+No provision in this Constitution for a two-thirds' vote of both houses of the General Assembly shall be construed to waive the necessity for the signature of the Governor as in any other case, except in the case of the two-thirds' vote required to override the veto or to submit proposed constitutional amendments or a proposal for a new Constitution.

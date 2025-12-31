@@ -1,0 +1,15 @@
+# Article III, Section VI, Paragraph V. Specific limitations.
+(a) The General Assembly shall not have the power to grant incorporation to private persons but shall provide by general law the manner in which private corporate powers and privileges may be granted.
+(b) The General Assembly shall not forgive the forfeiture of the charter of any corporation existing on August 13, 1945, nor shall it grant any benefit to or permit any amendment to the charter of any corporation except upon the condition that the acceptance thereof shall operate as a novation of the charter and that such corporation shall thereafter hold its charter subject to the provisions of this Constitution.
+(c)(1) The General Assembly shall not have the power to authorize any contract or agreement which may have the effect of or which is intended to have the effect of encouraging a monopoly, which is hereby declared to be unlawful and void. Except as otherwise provided in subparagraph (c)(2) of this Paragraph, the General Assembly shall not have the power to authorize any contract or agreement which may have the effect of or which is intended to have the effect of defeating or lessening competition, which is hereby declared to be unlawful and void.
+(2) The General Assembly shall have the power to authorize and provide by general law for judicial enforcement of contracts or agreements restricting or regulating competitive activities between or among:
+(A) Employers and employees;
+(B) Distributors and manufacturers;
+(C) Lessors and lessees;
+(D) Partnerships and partners;
+(E) Franchisors and franchisees;
+(F) Sellers and purchasers of a business or commercial enterprise; or
+(G) Two or more employers.
+(3) The authority granted to the General Assembly in subparagraph (c)(2) of this Paragraph shall include the authority to grant to courts by general law the power to limit the duration, geographic area, and scope of prohibited activities provided in a contract or agreement restricting or regulating competitive activities to render such contract or agreement reasonable under the circumstances for which it was made.
+(d) The General Assembly shall not have the power to regulate or fix charges of public utilities owned or operated by any county or municipality of this state, except as authorized by this Constitution.
+(e) No municipal or county authority which is authorized to construct, improve, or maintain any road or street on behalf of, pursuant to a contract with, or through the use of taxes or other revenues of a county or municipal corporation shall be created by any local Act or pursuant to any general Act nor shall any law specifically relating to any such authority be amended unless the creation of such authority or the amendment of such law is conditioned upon the approval of a majority of the qualified voters of the county or municipal corporation affected voting in a referendum thereon. This subparagraph shall not apply to or affect any state authority. (Ga. Const. 1983, Art. 3, § 6, Para. 5; Ga. L. 1986, p. 1628, § 1/HR 662; Ga. L. 2010, p. 1260, § 1/HR 178.)

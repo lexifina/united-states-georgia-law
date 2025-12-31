@@ -1,0 +1,2 @@
+# Article III, Section IV, Paragraph VII. Election and returns; disorderly conduct.
+Each house shall be the judge of the election, returns, and qualifications of its members and shall have power to punish them for disorderly behavior or misconduct by censure, fine, imprisonment, or expulsion; but no member shall be expelled except by a vote of two-thirds of the members of the house to which such member belongs.

@@ -1,0 +1,2 @@
+# Article VI, Section I, Paragraph V. Uniformity of jurisdiction, powers, etc.
+Except as otherwise provided in this Constitution, the courts of each class shall have uniform jurisdiction, powers, rules of practice and procedure, and selection, qualifications, terms, and discipline of judges. The provisions of this Paragraph, as related to the state-wide business court, shall be effective as provided by law.

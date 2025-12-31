@@ -1,0 +1,2 @@
+# Article V, Section I, Paragraph III. Lieutenant Governor.
+There shall be a Lieutenant Governor, who shall be elected at the same time, for the same term, and in the same manner as the Governor. The Lieutenant Governor shall be the President of the Senate and shall have such executive duties as prescribed by the Governor and as may be prescribed by law not inconsistent with the powers of the Governor or other provisions of this Constitution. The compensation and allowances of the Lieutenant Governor shall be as provided by law.

@@ -1,0 +1,2 @@
+# Article VI, Section I, Paragraph III. Judges; exercise of power outside own court; scope of term ''judge.''
+Provided the judge is otherwise qualified, a judge may exercise judicial power in any court upon the request and with the consent of the judges of that court and of the judge's own court under rules prescribed by law. The term ''judge,'' as used in this article, shall include Justices, judges, senior judges, magistrates, and every other such judicial office of whatever name existing or created.

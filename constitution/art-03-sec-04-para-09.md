@@ -1,0 +1,2 @@
+# Article III, Section IV, Paragraph IX. Privilege of members.
+The members of both houses shall be free from arrest during sessions of the General Assembly, or committee meetings thereof, and in going thereto or returning therefrom, except for treason, felony, or breach of the peace. No member shall be liable to answer in any other place for anything spoken in either house or in any committee meeting of either house.

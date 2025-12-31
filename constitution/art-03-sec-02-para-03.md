@@ -1,0 +1,3 @@
+# Article III, Section II, Paragraph III. Qualifications of members of General Assembly.
+(a) At the time of their election, the members of the Senate shall be citizens of the United States, shall be at least 25 years of age, shall have been citizens of this state for at least two years, and shall have been legal residents of the territory embraced within the district from which elected for at least one year.
+(b) At the time of their election, the members of the House of Representatives shall be citizens of the United States, shall be at least 21 years of age, shall have been citizens of this state for at least two years, and shall have been legal residents of the territory embraced within the district from which elected for at least one year.

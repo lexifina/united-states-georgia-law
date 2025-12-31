@@ -1,0 +1,2 @@
+# Article V, Section I, Paragraph IV. Qualifications of Governor and Lieutenant Governor.
+No person shall be eligible for election to the office of Governor or Lieutenant Governor unless such person shall have been a citizen of the United States 15 years and a legal resident of the state six years immediately preceding the election and shall have attained the age of 30 years by the date of assuming office.

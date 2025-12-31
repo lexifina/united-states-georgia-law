@@ -1,0 +1,2 @@
+# Article III, Section X, Paragraph IV. Firemen's pension system.
+The powers of taxation may be exercised by the state through the General Assembly and the counties and municipalities for the purpose of paying pensions and other benefits and costs under a firemen's pension system or systems. The taxes so levied may be collected by such firemen's pension system or systems and disbursed therefrom by authority of the General Assembly for the purposes therein authorized.

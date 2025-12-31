@@ -1,0 +1,4 @@
+# Article IV, Section I, Paragraph I. Public Service Commission.
+(a) There shall be a Public Service Commission for the regulation of utilities which shall consist of five members who shall be elected by the people. The Commissioners in office on June 30, 1983, shall serve until December 31 after the general election at which the successor of each member is elected. Thereafter, all succeeding terms of members shall be for six years. Members shall serve until their successors are elected and qualified. A chairman shall be selected by the members of the commission from its membership.
+(b) The commission shall be vested with such jurisdiction, powers, and duties as provided by law.
+(c) The filling of vacancies and manner and time of election of members of the commission shall be as provided by law.

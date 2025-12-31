@@ -1,0 +1,4 @@
+# Article VI, Section VII, Paragraph VI. Judicial Qualifications Commission; power; composition.
+(a) The General Assembly shall by general law create and provide for the composition, manner of appointment, and governance of a Judicial Qualifications Commission, with such commission having the power to discipline, remove, and cause involuntary retirement of judges as provided by this Article. Appointments to the Judicial Qualifications Commission shall be subject to confirmation by the Senate as provided for by general law.
+(b) The procedures of the Judicial Qualifications Commission shall comport with due process. Such procedures and advisory opinions issued by the Judicial Qualifications Commission shall be subject to review by the Supreme Court.
+(c) The Judicial Qualifications Commission which existed on June 30, 2017, is hereby abolished.

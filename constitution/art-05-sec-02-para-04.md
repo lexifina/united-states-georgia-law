@@ -1,0 +1,2 @@
+# Article V, Section II, Paragraph IV. Veto power.
+Except as otherwise provided in this Constitution, before any bill or resolution shall become law, the Governor shall have the right to review such bill or resolution intended to have the effect of law which has been passed by the General Assembly. The Governor may veto, approve, or take no action on any such bill or resolution. In the event the Governor vetoes any such bill or resolution, the General Assembly may, by a two-thirds' vote, override such veto as provided in Article III of this Constitution.

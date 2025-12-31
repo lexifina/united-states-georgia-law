@@ -1,0 +1,2 @@
+# Article VI, Section VII, Paragraph III. Vacancies.
+Vacancies shall be filled by appointment of the Governor except as otherwise provided by law in the magistrate, probate, and juvenile courts. Vacancies in the state-wide business court shall be filled by appointment of the Governor, subject to approval as specified in subparagraph (b) of Paragraph (I) of this section. Vacancies in the Georgia Tax Court shall be filled by appointment of the Governor, subject to approval as provided for in subparagraph (c) of Paragraph (I) of this section.

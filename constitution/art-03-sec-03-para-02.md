@@ -1,0 +1,3 @@
+# Article III, Section III, Paragraph II. Speaker and Speaker Pro Tempore of the House of Representatives.
+(a) The presiding officer of the House of Representatives shall be styled the Speaker of the House of Representatives and shall be elected by the House of Representatives from among its members.
+(b) A Speaker Pro Tempore shall be elected by the House of Representatives from among its members. The Speaker Pro Tempore shall become Speaker in case of the death, resignation, or permanent disability of the Speaker and shall serve until a Speaker is elected. Such election shall be held as provided in the rules of the House. The General Assembly shall provide by law for the method of determining disability as provided in this Paragraph.

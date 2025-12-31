@@ -1,0 +1,3 @@
+# Article VII, Section I, Paragraph II. Taxing power limited.
+(a) The annual levy of state ad valorem taxes on tangible property for all purposes, except for defending the state in an emergency, shall not exceed one-fourth mill on each dollar of the assessed value of the property.
+(b) So long as the method of taxation in effect on December 31, 1980, for the taxation of shares of stock of banking corporations and other monied capital coming into competition with such banking corporations continues in effect, such shares and other monied capital may be taxed at an annual rate not exceeding five mills on each dollar of the assessed value of the property.

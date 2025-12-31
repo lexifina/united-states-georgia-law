@@ -1,0 +1,2 @@
+# Article VI, Section VII, Paragraph V. Compensation and allowances of judges.
+All judges shall receive compensation and allowances as provided by law; county supplements are hereby continued and may be granted or changed by the General Assembly. County governing authorities which had the authority on June 30, 1983, to make county supplements shall continue to have such authority under this Constitution. An incumbent's salary, allowance, or supplement shall not be decreased during the incumbent's term of office.

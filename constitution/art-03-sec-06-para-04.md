@@ -1,0 +1,4 @@
+# Article III, Section VI, Paragraph IV. Limitations on special legislation.
+(a) Laws of a general nature shall have uniform operation throughout this state and no local or special law shall be enacted in any case for which provision has been made by an existing general law, except that the General Assembly may by general law authorize local governments by local ordinance or resolution to exercise police powers which do not conflict with general laws.
+(b) No population bill, as the General Assembly shall define by general law, shall be passed. No bill using classification by population as a means of determining the applicability of any bill or law to any political subdivision or group of political subdivisions may expressly or impliedly amend, modify, supersede, or repeal the general law defining a population bill.
+(c) No special law relating to the rights or status of private persons shall be enacted.

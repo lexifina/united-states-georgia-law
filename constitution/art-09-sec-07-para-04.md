@@ -1,0 +1,2 @@
+# Article IX, Section VII, Paragraph IV. Debt.
+The administrative body of a community improvement district may incur debt, as authorized by law, without regard to the requirements of Section V of this Article, which debt shall be backed by the full faith, credit, and taxing power of the community improvement district but shall not be an obligation of the State of Georgia or any other unit of government of the State of Georgia other than the community improvement district. (Ga. Const. 1983, Art. 9, § 7, Para. 4, approved by Ga. L. 1984, p. 1703, § 1/HR 733.)

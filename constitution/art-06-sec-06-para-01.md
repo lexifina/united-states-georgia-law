@@ -1,0 +1,2 @@
+# Article VI, Section VI, Paragraph I. Composition of Supreme Court; Chief Justice; Presiding Justice; quorum; substitute judges.
+The Supreme Court shall consist of not more than nine Justices who shall elect from among themselves a Chief Justice as the chief presiding and administrative officer of the court and a Presiding Justice to serve if the Chief Justice is absent or is disqualified. A majority shall be necessary to hear and determine cases. If a Justice is disqualified in any case, a substitute judge may be designated by the remaining Justices to serve.

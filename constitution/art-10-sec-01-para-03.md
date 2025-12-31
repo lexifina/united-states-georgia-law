@@ -1,0 +1,2 @@
+# Article X, Section I, Paragraph III. Repeal or amendment of proposal.
+Any proposal by the General Assembly to amend this Constitution or for a new Constitution may be amended or repealed by the same General Assembly which adopted such proposal by the affirmative vote of two-thirds of the members to which each house is entitled in a roll-call vote entered on their respective journals, if such action is taken at least two months prior to the date of the election at which such proposal is to be submitted to the people.

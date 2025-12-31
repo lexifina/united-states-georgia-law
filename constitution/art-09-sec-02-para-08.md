@@ -1,0 +1,2 @@
+# Article IX, Section II, Paragraph VIII. Limitation on the taxing power and contributions of counties, municipalities, and political subdivisions.
+The General Assembly shall not authorize any county, municipality, or other political subdivision of this state, through taxation, contribution, or otherwise, to appropriate money for or to lend its credit to any person or to any nonpublic corporation or association except for purely charitable purposes.

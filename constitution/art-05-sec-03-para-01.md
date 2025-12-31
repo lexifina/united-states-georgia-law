@@ -1,0 +1,2 @@
+# Article V, Section III, Paragraph I. Other executive officers, how elected.
+The Secretary of State, Attorney General, State School Superintendent, Commissioner of Insurance, Commissioner of Agriculture, and Commissioner of Labor shall be elected in the manner prescribed for the election of members of the General Assembly and the electors shall be the same. Such executive officers shall be elected at the same time and hold their offices for the same term as the Governor.

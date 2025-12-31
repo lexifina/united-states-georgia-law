@@ -1,0 +1,2 @@
+# Article VIII, Section VII, Paragraph IV. Waiver of tuition.
+The Board of Regents of the University System of Georgia shall be authorized to establish programs allowing attendance at units of the University System of Georgia without payment of tuition or other fees, but the General Assembly may provide by law for the establishment of any such program for the benefit of elderly citizens of the state.

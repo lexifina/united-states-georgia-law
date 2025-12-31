@@ -1,0 +1,2 @@
+# Article VI, Section I, Paragraph IV. Exercise of judicial power.
+Each court may exercise such powers as necessary in aid of its jurisdiction or to protect or effectuate its judgments; but only the superior and appellate courts and state-wide business court shall have the power to issue process in the nature of mandamus, prohibition, specific performance, quo warranto, and injunction. Each superior court, state court, and other courts of record and the state-wide business court may grant new trials on legal grounds.

@@ -1,0 +1,2 @@
+# Article VII, Section III, Paragraph III. Grants to counties and municipalities.
+State funds may be granted to counties and municipalities within the state. The grants authorized by this Paragraph shall be made in such manner and form and subject to the procedures and conditions specified by law. The law providing for any such grant may limit the purposes for which the grant funds may be expended.

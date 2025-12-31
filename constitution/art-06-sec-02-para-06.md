@@ -1,0 +1,2 @@
+# Article VI, Section II, Paragraph VI. All other cases.
+All other civil cases, except juvenile court cases as may otherwise be provided by the Juvenile Court Code of Georgia, shall be tried in the county where the defendant resides; venue as to corporations, foreign and domestic, shall be as provided by law; and all criminal cases shall be tried in the county where the crime was committed, except cases in the superior courts where the judge is satisfied that an impartial jury cannot be obtained in such county.

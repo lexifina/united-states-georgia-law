@@ -1,0 +1,4 @@
+# Article III, Section II, Paragraph IV. Disqualifications.
+(a) No person on active duty with any branch of the armed forces of the United States shall have a seat in either house unless otherwise provided by law.
+(b) No person holding any civil appointment or office having any emolument annexed thereto under the United States, this state, or any other state shall have a seat in either house.
+(c) No Senator or Representative shall be elected by the General Assembly or appointed by the Governor to any office or appointment having any emolument annexed thereto during the time for which such person shall have been elected unless the Senator or Representative shall first resign the seat to which elected; provided, however, that, during the term for which elected, no Senator or Representative shall be appointed to any civil office which has been created during such term.

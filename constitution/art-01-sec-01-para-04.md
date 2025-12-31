@@ -1,0 +1,2 @@
+# Article I, Section I, Paragraph IV. Religious opinions; freedom of religion.
+No inhabitant of this state shall be molested in person or property or be prohibited from holding any public office or trust on account of religious opinions; but the right of freedom of religion shall not be so construed as to excuse acts of licentiousness or justify practices inconsistent with the peace and safety of the state.

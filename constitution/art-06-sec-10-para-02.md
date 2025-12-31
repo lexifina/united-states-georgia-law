@@ -1,0 +1,2 @@
+# Article VI, Section X, Paragraph II. Continuation of judges.
+Each judge holding office on the effective date of this article shall continue in office until the expiration of the term of office, as a judge of the court having the same or similar jurisdiction. Each court not named herein shall cease to exist on such date or at the expiration of the term of the incumbent judge, whichever is later; and its jurisdiction shall automatically pass to the new court of the same or similar jurisdiction, in the absence of which court it shall pass to the superior court.

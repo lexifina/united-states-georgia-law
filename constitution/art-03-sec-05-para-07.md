@@ -1,0 +1,2 @@
+# Article III, Section V, Paragraph VII. Reading of general bills.
+The title of every general bill and of every resolution intended to have the effect of general law or to amend this Constitution or to propose a new Constitution shall be read three times and on three separate days in each house before such bill or resolution shall be voted upon; and the third reading of such bill and resolution shall be in their entirety when ordered by the presiding officer or by a majority of the members voting on such question in either house.

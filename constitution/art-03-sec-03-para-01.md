@@ -1,0 +1,3 @@
+# Article III, Section III, Paragraph I. President and President Pro Tempore of the Senate.
+(a) The presiding officer of the Senate shall be styled the President of the Senate.
+(b) A President Pro Tempore shall be elected by the Senate from among its members. The President Pro Tempore shall act as President in case of the temporary disability of the President. In case of the death, resignation, or permanent disability of the President or in the event of the succession of the President to the executive power, the President Pro Tempore shall become President and shall receive the same compensation and allowances as the Speaker of the House of Representatives. The General Assembly shall provide by law for the method of determining disability as provided in this Paragraph.

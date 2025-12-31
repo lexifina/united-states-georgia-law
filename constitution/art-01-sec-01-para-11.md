@@ -1,0 +1,4 @@
+# Article I, Section I, Paragraph XI. Right to trial by jury; number of jurors; selection and compensation of jurors.
+(a) The right to trial by jury shall remain inviolate, except that the court shall render judgment without the verdict of a jury in all civil cases where no issuable defense is filed and where a jury is not demanded in writing by either party. In criminal cases, the defendant shall have a public and speedy trial by an impartial jury; and the jury shall be the judges of the law and the facts.
+(b) A trial jury shall consist of 12 persons; but the General Assembly may prescribe any number, not less than six, to constitute a trial jury in courts of limited jurisdiction and in superior courts in misdemeanor cases.
+(c) The General Assembly shall provide by law for the selection and compensation of persons to serve as grand jurors and trial jurors.

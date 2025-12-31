@@ -1,0 +1,2 @@
+# Article III, Section IX, Paragraph III. General appropriations bill.
+The general appropriations bill shall embrace nothing except appropriations fixed by previous laws; the ordinary expenses of the executive, legislative, and judicial departments of the government; payment of the public debt and interest thereon; and for support of the public institutions and educational interests of the state. All other appropriations shall be made by separate bills, each embracing but one subject.

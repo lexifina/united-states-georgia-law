@@ -1,0 +1,2 @@
+# Article VIII, Section III, Paragraph I. State School Superintendent.
+There shall be a State School Superintendent, who shall be the executive officer of the State Board of Education, elected at the same time and in the same manner and for the same term as that of the Governor. The State School Superintendent shall have such qualifications and shall be paid such compensation as may be fixed by law. No member of the State Board of Education shall be eligible for election as State School Superintendent during the time for which such member shall have been appointed.

@@ -1,0 +1,2 @@
+# Article VII, Section IV, Paragraph VI. Faith and credit of state pledged debt may be validated.
+The full faith, credit, and taxing power of the state are hereby pledged to the payment of all public debt incurred under this article and all such debt and the interest on the debt shall be exempt from taxation. Such debt may be validated by judicial proceedings in the manner provided by law. Such validation shall be incontestable and conclusive.

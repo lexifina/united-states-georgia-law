@@ -1,0 +1,2 @@
+# Article VIII, Section VII, Paragraph II. Guaranteed revenue debt.
+Guaranteed revenue debt may be incurred to provide funds to make loans to students and to parents of students for educational purposes, to purchase loans made to students and to parents of students for educational purposes, or to lend or make deposits of such funds with lenders which shall be secured by loans made to students and to parents of students for educational purposes. Any such debt shall be incurred in accordance with the procedures and requirements of Article VII, Section IV of this Constitution.

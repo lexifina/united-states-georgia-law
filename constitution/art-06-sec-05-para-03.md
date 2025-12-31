@@ -1,0 +1,2 @@
+# Article VI, Section V, Paragraph III. Jurisdiction of Court of Appeals; decisions binding.
+The Court of Appeals shall be a court of review and shall exercise appellate and certiorari jurisdiction in all cases not reserved to the Supreme Court or conferred on other courts by law. The decisions of the Court of Appeals insofar as not in conflict with those of the Supreme Court shall bind all courts except the Supreme Court as precedents.

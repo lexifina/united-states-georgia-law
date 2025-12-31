@@ -1,0 +1,2 @@
+# Article I, Section I, Paragraph XXVI. Exemptions from levy and sale.
+The General Assembly shall protect by law from levy and sale by virtue of any process under the laws of this state a portion of the property of each person in an amount of not less than $1,600.00 and shall have authority to define to whom any such additional exemptions shall be allowed; to specify the amount of such exemptions; to provide for the manner of exempting such property and for the sale, alienation, and encumbrance thereof; and to provide for the waiver of said exemptions by the debtor.

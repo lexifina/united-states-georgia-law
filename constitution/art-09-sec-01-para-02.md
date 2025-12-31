@@ -1,0 +1,4 @@
+# Article IX, Section I, Paragraph II. Number of counties limited; county boundaries and county sites; county consolidation.
+(a) There shall not be more than 159 counties in this state.
+(b) The metes and bounds of the several counties and the county sites shall remain as prescribed by law on June 30, 1983, unless changed under the operation of a general law.
+(c) The General Assembly may provide by law for the consolidation of two or more counties into one or the division of a county and the merger of portions thereof into other counties under such terms and conditions as it may prescribe; but no such consolidation, division, or merger shall become effective unless approved by a majority of the qualified voters voting thereon in each of the counties proposed to be consolidated, divided, or merged.

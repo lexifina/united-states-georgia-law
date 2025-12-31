@@ -1,0 +1,2 @@
+# Article III, Section X, Paragraph V. Funding standards.
+It shall be the duty of the General Assembly to enact legislation to define funding standards which will assure the actuarial soundness of any retirement or pension system supported wholly or partially from public funds and to control legislative procedures so that no bill or resolution creating or amending any such retirement or pension system shall be passed by the General Assembly without concurrent provisions for funding in accordance with the defined funding standards.

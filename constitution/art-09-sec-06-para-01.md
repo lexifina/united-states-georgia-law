@@ -1,0 +1,2 @@
+# Article IX, Section VI, Paragraph I. Revenue bonds; general limitations.
+Any county, municipality, or other political subdivision of this state may issue revenue bonds as provided by general law. The obligation represented by revenue bonds shall be repayable only out of the revenue derived from the project and shall not be deemed to be a debt of the issuing political subdivision. No such issuing political subdivision shall exercise the power of taxation for the purpose of paying any part of the principal or interest of any such revenue bonds.

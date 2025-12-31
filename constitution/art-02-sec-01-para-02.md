@@ -1,0 +1,2 @@
+# Article II, Section I, Paragraph II. Right to register and vote.
+Every person who is a citizen of the United States and a resident of Georgia as defined by law, who is at least 18 years of age and not disenfranchised by this article, and who meets minimum residency requirements as provided by law shall be entitled to vote at any election by the people. The General Assembly shall provide by law for the registration of electors.

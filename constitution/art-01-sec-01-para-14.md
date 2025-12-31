@@ -1,0 +1,2 @@
+# Article I, Section I, Paragraph XIV. Benefit of counsel; accusation; list of witnesses; compulsory process.
+Every person charged with an offense against the laws of this state shall have the privilege and benefit of counsel; shall be furnished with a copy of the accusation or indictment and, on demand, with a list of the witnesses on whose testimony such charge is founded; shall have compulsory process to obtain the testimony of that person's own witnesses; and shall be confronted with the witnesses testifying against such person.

@@ -1,0 +1,2 @@
+# Article III, Section V, Paragraph VIII. Procedure for considering local legislation.
+The General Assembly may provide by law for the procedure for considering local legislation. The title of every local bill and every resolution intended to have the effect of local law shall be read at least once before such bill or resolution shall be voted upon; and no such bill or resolution shall be voted upon prior to the second day following the day of introduction.

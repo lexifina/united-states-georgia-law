@@ -1,0 +1,10 @@
+# Article VII, Section II, Paragraph II. Exemptions from taxation of property.
+(a)(1) Except as otherwise provided in this Constitution, no property shall be exempted from ad valorem taxation unless the exemption is approved by two-thirds of the members elected to each branch of the General Assembly in a roll-call vote and by a majority of the qualified electors of the state voting in a referendum thereon.
+(2) Homestead exemptions from ad valorem taxation levied by local taxing jurisdictions may be granted by local law conditioned upon approval by a majority of the qualified electors residing within the limits of the local taxing jurisdiction voting in a referendum thereon.
+(3) Laws subject to the requirement of a referendum as provided in this subparagraph (a) may originate in either the Senate or the House of Representatives.
+(4) The requirements of this subparagraph (a) shall not apply with respect to a law which codifies or recodifies an exemption previously authorized in the Constitution of 1976 or an exemption authorized pursuant to this Constitution.
+(a.1) In addition to the powers otherwise authorized by this Constitution, the General Assembly shall be authorized to provide by general law for a single state-wide homestead exemption from ad valorem taxes that is uniformly applicable to each county, consolidated government, municipality, or local school system beginning January 1, 2025; provided, however, that the General Assembly may:
+(1) Limit the application of the homestead exemption to any such political subdivisions that do not already have certain existing homestead exemptions in effect;
+(2) Prescribe a method by which any such political subdivision may opt out of said homestead exemption; and
+(3) Prescribe a method by which any such newly created political subdivision may opt in to such homestead exemption.
+(b) The grant of any exemption from ad valorem taxation shall be subject to the conditions, limitations, and administrative procedures specified by law.

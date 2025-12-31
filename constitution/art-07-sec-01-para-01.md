@@ -1,0 +1,2 @@
+# Article VII, Section I, Paragraph I. Taxation; limitations on grants of tax powers.
+The state may not suspend or irrevocably give, grant, limit, or restrain the right of taxation and all laws, grants, contracts, and other acts to effect any of these purposes are null and void. Except as otherwise provided in this Constitution, the right of taxation shall always be under the complete control of the state.

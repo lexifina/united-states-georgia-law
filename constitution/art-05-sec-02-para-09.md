@@ -1,0 +1,2 @@
+# Article V, Section II, Paragraph IX. Appointments by Governor.
+The Governor shall make such appointments as are authorized by this Constitution or by law. If a person whose confirmation is required by the Senate is once rejected by the Senate, that person shall not be renominated by the Governor for appointment to the same office until the expiration of a period of one year from the date of such rejection.
