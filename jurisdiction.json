@@ -1,0 +1,9 @@
+{
+  "path": "us-ga",
+  "code": "GA",
+  "name": "Georgia",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-georgia-law",
+  "build": "built: Constitution and O.C.G.A. Titles 13, 14, 16 and 44, statute text only, one version (2025 supplement, dated 2025-12-31)",
+  "register_date": "2026-10-30"
+}

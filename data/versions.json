@@ -1,0 +1,75 @@
+{
+ "country": "US-GA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the State of Georgia (1983)",
+   "url": "https://georgiacommons.org/constitution/ga",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 289,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-constitution-ga.jsonl.gz",
+     "sha256": "aa55acc47af099ef55a9f134bd2cec8f6ed9d9ce2ec7803b61a773cd59fd4258"
+    }
+   ]
+  },
+  {
+   "slug": "contracts",
+   "short": "O.C.G.A. Title 13",
+   "title": "Official Code of Georgia Annotated, Title 13. Contracts",
+   "url": "https://georgiacommons.org/code/title/13",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 205,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "corporations",
+   "short": "O.C.G.A. Title 14",
+   "title": "Official Code of Georgia Annotated, Title 14. Corporations, Partnerships, and Associations",
+   "url": "https://georgiacommons.org/code/title/14",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 850,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "crimes",
+   "short": "O.C.G.A. Title 16",
+   "title": "Official Code of Georgia Annotated, Title 16. Crimes and Offenses",
+   "url": "https://georgiacommons.org/code/title/16",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 726,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "property",
+   "short": "O.C.G.A. Title 44",
+   "title": "Official Code of Georgia Annotated, Title 44. Property",
+   "url": "https://georgiacommons.org/code/title/44",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1129,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  }
+ ]
+}
