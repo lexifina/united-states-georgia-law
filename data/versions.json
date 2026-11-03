@@ -70,6 +70,692 @@
      "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
     }
    ]
+  },
+  {
+   "slug": "title-01",
+   "short": "O.C.G.A. Title 1",
+   "title": "Official Code of Georgia Annotated, Title 1. General Provisions",
+   "url": "https://georgiacommons.org/code/title/1",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 63,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-02",
+   "short": "O.C.G.A. Title 2",
+   "title": "Official Code of Georgia Annotated, Title 2. Agriculture",
+   "url": "https://georgiacommons.org/code/title/2",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 606,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-03",
+   "short": "O.C.G.A. Title 3",
+   "title": "Official Code of Georgia Annotated, Title 3. Alcoholic Beverages",
+   "url": "https://georgiacommons.org/code/title/3",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 229,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-04",
+   "short": "O.C.G.A. Title 4",
+   "title": "Official Code of Georgia Annotated, Title 4. Animals",
+   "url": "https://georgiacommons.org/code/title/4",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 274,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-05",
+   "short": "O.C.G.A. Title 5",
+   "title": "Official Code of Georgia Annotated, Title 5. Appeal and Error",
+   "url": "https://georgiacommons.org/code/title/5",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 94,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-06",
+   "short": "O.C.G.A. Title 6",
+   "title": "Official Code of Georgia Annotated, Title 6. Aviation",
+   "url": "https://georgiacommons.org/code/title/6",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 54,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-07",
+   "short": "O.C.G.A. Title 7",
+   "title": "Official Code of Georgia Annotated, Title 7. Banking and Finance",
+   "url": "https://georgiacommons.org/code/title/7",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 683,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-08",
+   "short": "O.C.G.A. Title 8",
+   "title": "Official Code of Georgia Annotated, Title 8. Buildings and Housing",
+   "url": "https://georgiacommons.org/code/title/8",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 267,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-09",
+   "short": "O.C.G.A. Title 9",
+   "title": "Official Code of Georgia Annotated, Title 9. Civil Practice",
+   "url": "https://georgiacommons.org/code/title/9",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 679,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-10",
+   "short": "O.C.G.A. Title 10",
+   "title": "Official Code of Georgia Annotated, Title 10. Commerce and Trade",
+   "url": "https://georgiacommons.org/code/title/10",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1055,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-11",
+   "short": "O.C.G.A. Title 11",
+   "title": "Official Code of Georgia Annotated, Title 11. Commercial Code",
+   "url": "https://georgiacommons.org/code/title/11",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 644,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-12",
+   "short": "O.C.G.A. Title 12",
+   "title": "Official Code of Georgia Annotated, Title 12. Conservation and Natural Resources",
+   "url": "https://georgiacommons.org/code/title/12",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1095,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-15",
+   "short": "O.C.G.A. Title 15",
+   "title": "Official Code of Georgia Annotated, Title 15. Courts",
+   "url": "https://georgiacommons.org/code/title/15",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1146,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-17",
+   "short": "O.C.G.A. Title 17",
+   "title": "Official Code of Georgia Annotated, Title 17. Criminal Procedure",
+   "url": "https://georgiacommons.org/code/title/17",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 471,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-18",
+   "short": "O.C.G.A. Title 18",
+   "title": "Official Code of Georgia Annotated, Title 18. Debtor and Creditor",
+   "url": "https://georgiacommons.org/code/title/18",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 145,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-19",
+   "short": "O.C.G.A. Title 19",
+   "title": "Official Code of Georgia Annotated, Title 19. Domestic Relations",
+   "url": "https://georgiacommons.org/code/title/19",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 484,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-20",
+   "short": "O.C.G.A. Title 20",
+   "title": "Official Code of Georgia Annotated, Title 20. Education",
+   "url": "https://georgiacommons.org/code/title/20",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1406,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-21",
+   "short": "O.C.G.A. Title 21",
+   "title": "Official Code of Georgia Annotated, Title 21. Elections",
+   "url": "https://georgiacommons.org/code/title/21",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 432,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-22",
+   "short": "O.C.G.A. Title 22",
+   "title": "Official Code of Georgia Annotated, Title 22. Eminent Domain",
+   "url": "https://georgiacommons.org/code/title/22",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 125,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-23",
+   "short": "O.C.G.A. Title 23",
+   "title": "Official Code of Georgia Annotated, Title 23. Equity",
+   "url": "https://georgiacommons.org/code/title/23",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 143,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-24",
+   "short": "O.C.G.A. Title 24",
+   "title": "Official Code of Georgia Annotated, Title 24. Evidence",
+   "url": "https://georgiacommons.org/code/title/24",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 217,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-25",
+   "short": "O.C.G.A. Title 25",
+   "title": "Official Code of Georgia Annotated, Title 25. Fire Protection and Safety",
+   "url": "https://georgiacommons.org/code/title/25",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 284,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-26",
+   "short": "O.C.G.A. Title 26",
+   "title": "Official Code of Georgia Annotated, Title 26. Food, Drugs, and Cosmetics",
+   "url": "https://georgiacommons.org/code/title/26",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 387,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-27",
+   "short": "O.C.G.A. Title 27",
+   "title": "Official Code of Georgia Annotated, Title 27. Game and Fish",
+   "url": "https://georgiacommons.org/code/title/27",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 264,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-28",
+   "short": "O.C.G.A. Title 28",
+   "title": "Official Code of Georgia Annotated, Title 28. General Assembly",
+   "url": "https://georgiacommons.org/code/title/28",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 126,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-29",
+   "short": "O.C.G.A. Title 29",
+   "title": "Official Code of Georgia Annotated, Title 29. Guardian and Ward",
+   "url": "https://georgiacommons.org/code/title/29",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 305,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-30",
+   "short": "O.C.G.A. Title 30",
+   "title": "Official Code of Georgia Annotated, Title 30. Handicapped Persons",
+   "url": "https://georgiacommons.org/code/title/30",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 75,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-31",
+   "short": "O.C.G.A. Title 31",
+   "title": "Official Code of Georgia Annotated, Title 31. Health",
+   "url": "https://georgiacommons.org/code/title/31",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1003,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-32",
+   "short": "O.C.G.A. Title 32",
+   "title": "Official Code of Georgia Annotated, Title 32. Highways, Bridges, and Ferries",
+   "url": "https://georgiacommons.org/code/title/32",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 384,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-33",
+   "short": "O.C.G.A. Title 33",
+   "title": "Official Code of Georgia Annotated, Title 33. Insurance",
+   "url": "https://georgiacommons.org/code/title/33",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1555,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-34",
+   "short": "O.C.G.A. Title 34",
+   "title": "Official Code of Georgia Annotated, Title 34. Labor and Industrial Relations",
+   "url": "https://georgiacommons.org/code/title/34",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 460,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-35",
+   "short": "O.C.G.A. Title 35",
+   "title": "Official Code of Georgia Annotated, Title 35. Law Enforcement Officers and Agencies",
+   "url": "https://georgiacommons.org/code/title/35",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 278,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-36",
+   "short": "O.C.G.A. Title 36",
+   "title": "Official Code of Georgia Annotated, Title 36. Local Government",
+   "url": "https://georgiacommons.org/code/title/36",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1018,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-37",
+   "short": "O.C.G.A. Title 37",
+   "title": "Official Code of Georgia Annotated, Title 37. Mental Health",
+   "url": "https://georgiacommons.org/code/title/37",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 342,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-38",
+   "short": "O.C.G.A. Title 38",
+   "title": "Official Code of Georgia Annotated, Title 38. Military, Emergency Management, and Veterans Affairs",
+   "url": "https://georgiacommons.org/code/title/38",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 368,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-39",
+   "short": "O.C.G.A. Title 39",
+   "title": "Official Code of Georgia Annotated, Title 39. Minors",
+   "url": "https://georgiacommons.org/code/title/39",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 46,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-40",
+   "short": "O.C.G.A. Title 40",
+   "title": "Official Code of Georgia Annotated, Title 40. Motor Vehicles and Traffic",
+   "url": "https://georgiacommons.org/code/title/40",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 861,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-41",
+   "short": "O.C.G.A. Title 41",
+   "title": "Official Code of Georgia Annotated, Title 41. Nuisances",
+   "url": "https://georgiacommons.org/code/title/41",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 40,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-42",
+   "short": "O.C.G.A. Title 42",
+   "title": "Official Code of Georgia Annotated, Title 42. Penal Institutions",
+   "url": "https://georgiacommons.org/code/title/42",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 346,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-43",
+   "short": "O.C.G.A. Title 43",
+   "title": "Official Code of Georgia Annotated, Title 43. Professions and Businesses",
+   "url": "https://georgiacommons.org/code/title/43",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1335,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-45",
+   "short": "O.C.G.A. Title 45",
+   "title": "Official Code of Georgia Annotated, Title 45. Public Officers and Employees",
+   "url": "https://georgiacommons.org/code/title/45",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 685,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-46",
+   "short": "O.C.G.A. Title 46",
+   "title": "Official Code of Georgia Annotated, Title 46. Public Utilities and Public Transportation",
+   "url": "https://georgiacommons.org/code/title/46",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 753,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-47",
+   "short": "O.C.G.A. Title 47",
+   "title": "Official Code of Georgia Annotated, Title 47. Retirement and Pensions",
+   "url": "https://georgiacommons.org/code/title/47",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 686,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-48",
+   "short": "O.C.G.A. Title 48",
+   "title": "Official Code of Georgia Annotated, Title 48. Revenue and Taxation",
+   "url": "https://georgiacommons.org/code/title/48",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1205,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-49",
+   "short": "O.C.G.A. Title 49",
+   "title": "Official Code of Georgia Annotated, Title 49. Social Services",
+   "url": "https://georgiacommons.org/code/title/49",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 359,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-50",
+   "short": "O.C.G.A. Title 50",
+   "title": "Official Code of Georgia Annotated, Title 50. State Government",
+   "url": "https://georgiacommons.org/code/title/50",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1026,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-51",
+   "short": "O.C.G.A. Title 51",
+   "title": "Official Code of Georgia Annotated, Title 51. Torts",
+   "url": "https://georgiacommons.org/code/title/51",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 240,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-52",
+   "short": "O.C.G.A. Title 52",
+   "title": "Official Code of Georgia Annotated, Title 52. Waters of The State, Ports, and Watercraft",
+   "url": "https://georgiacommons.org/code/title/52",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 207,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-53",
+   "short": "O.C.G.A. Title 53",
+   "title": "Official Code of Georgia Annotated, Title 53. Wills, Trusts, and Administration of Estates",
+   "url": "https://georgiacommons.org/code/title/53",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 490,
+     "source_url": "https://github.com/shanejorr/georgiacommons-ocga-data/releases/download/ocga-2025-supplement-v3/ocga-code.jsonl.gz",
+     "sha256": "5cc3304062371359a814c144b68105e0fa56a74992561e418b44bef6980ee3a5"
+    }
+   ]
   }
  ]
 }

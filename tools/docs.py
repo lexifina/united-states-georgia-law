@@ -7,19 +7,13 @@ import us_state_lib as L
 
 README = """# Georgia: law history in git
 
-Georgia's Constitution and four core titles of the Official Code of Georgia Annotated as a git repository: one file per provision, one paragraph per line, so `git blame` works line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
+Georgia's Constitution and the whole Official Code of Georgia Annotated (statute text) as a git repository: one file per provision, one paragraph per line, so `git blame` works line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 **What is in it now**
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution of the State of Georgia (1983), 289 paragraphs | 1 | Oldest version available: the 2025 supplement |
-| `contracts/` | O.C.G.A. Title 13, Contracts | 1 | Same |
-| `corporations/` | O.C.G.A. Title 14, Corporations, Partnerships, and Associations | 1 | Same |
-| `crimes/` | O.C.G.A. Title 16, Crimes and Offenses | 1 | Same |
-| `property/` | O.C.G.A. Title 44, Property | 1 | Same |
+TABLE_HERE
 
-That is all the law this repository holds today. The other 49 titles, session laws and regulations are not in it.
+That is all the law this repository holds today: the Constitution and all 53 titles of the Code. Session laws, local and special laws and regulations are not in it.
 
 ## Where the text comes from
 
@@ -64,8 +58,15 @@ Lexifina's own contributions (the arrangement of the history, the commit message
 public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 """
 
+import json as _j
+_c = _j.loads((HERE / 'corpus.json').read_text('utf-8'))
+_rows = ['| Folder | Act | Versions | History |', '| --- | --- | ---: | --- |']
+for _a in _c['acts']:
+    _n = len(_a['versions'][0]['units'])
+    _rows.append('| `%s/` | %s, %d %s | 1 | %s |' % (_a['slug'], _a['title'].replace('Official Code of Georgia Annotated, ', 'O.C.G.A. '), _n, 'paragraphs' if _a['slug'] == 'constitution' else 'sections', 'Oldest version available: the 2025 supplement' if _a['slug'] == 'constitution' else 'Same'))
+README = README.replace('TABLE_HERE', chr(10).join(_rows))
 L.write_repo(HERE, README, LICENSE, {
     'path': 'us-ga', 'code': 'GA', 'name': 'Georgia', 'level': 'state',
     'repo': 'https://github.com/lexifina/united-states-georgia-law',
-    'build': 'built: Constitution and O.C.G.A. Titles 13, 14, 16 and 44, statute text only, one version (2025 supplement, dated 2025-12-31)',
+    'build': 'built: Constitution and all 53 O.C.G.A. titles, statute text only, one version (2025 supplement, dated 2025-12-31)',
     'register_date': '2026-10-30'})
